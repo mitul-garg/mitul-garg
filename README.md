@@ -25,4 +25,4 @@
   </ul>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitul-garg&show_icons=true&locale=en&theme=radical" alt="mitul-garg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitul-garg&show_icons=true&locale=en&theme=dark" alt="mitul-garg" /></p>
