@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **data structure and algorithms, problem solving, full stack web development**
+- 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Full Stack Web Development**
 
 - 📫 How to reach me **mitulgarg2000@gmail.com**
 
