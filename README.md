@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Mitul Garg</h1>
 
-- 🔭 I’m currently working on various Web Development Projects
+- 🔭 I’m currently working on various **Web Development Projects**
 
 - 🌱 I’m currently learning **Deep Learning**
 
