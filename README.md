@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on various **Web Development Projects**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning more about **MERN Stack**
 
-- 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Full Stack Web Development**
+- 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Full Stack Web Development and Machine Learning**
 
 - 📫 How to reach me **mitulgarg2000@gmail.com**
 
