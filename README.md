@@ -21,7 +21,7 @@
     <li>Java</li>
     <li>HTML, CSS, Javascript, React JS</li>
     <li>Node JS, Express JS, Mongoose, MongoDB</li>
-    <li>VSCode, Postman</li>
+    <li>VSCode, Postman, Kaggle</li>
   </ul>
 </p>
 
