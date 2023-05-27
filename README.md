@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on various **Web Development Projects**
 
-- 🌱 I’m currently learning more about **MERN Stack**
+- 🌱 I’m currently learning more about **Spring Boot**
 
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Full Stack Web Development and Machine Learning**
 
