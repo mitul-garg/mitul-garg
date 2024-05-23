@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I am Mitul Garg</h1>
 
-- 🔭 I’m currently working on various **Web Development Projects**
+- 🔭 I’m currently working on various **Devops**
 
-- 🌱 I’m currently learning more about **Spring Boot**
+- 🌱 I’m currently learning more about **Iac & Azure**
 
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Full Stack Web Development and Machine Learning**
 
