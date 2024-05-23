@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning more about **Iac & Azure**
+- 🌱 I’m currently learning more about **IaC & Azure**
 
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Full Stack Web Development and Machine Learning**
 
